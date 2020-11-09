@@ -1,7 +1,7 @@
 import styled, { createGlobalStyle } from 'styled-components';
 
 //@ts-ignore
-import BGImage from './images/w.jpg';
+// import BGImage from './images/w.jpg';
 
 export const GlobalStyle = createGlobalStyle`
 .text-center{text-align:center;}
